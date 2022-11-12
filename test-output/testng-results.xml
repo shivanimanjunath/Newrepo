@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-04T09:01:51 IST" name="Suite" finished-at="2022-11-04T09:01:52 IST" duration-ms="244">
+    <groups>
+    </groups>
+    <test started-at="2022-11-04T09:01:51 IST" name="Test" finished-at="2022-11-04T09:01:51 IST" duration-ms="17">
+      <class name="testing.day1">
+        <test-method is-config="true" signature="Name()[pri:0, instance:testing.day1@60d8c9b7]" started-at="2022-11-04T09:01:51 IST" name="Name" finished-at="2022-11-04T09:01:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Name -->
+      </class> <!-- testing.day1 -->
+    </test> <!-- Test -->
+    <test started-at="2022-11-04T09:01:51 IST" name="Testinggggg" finished-at="2022-11-04T09:01:52 IST" duration-ms="105">
+      <class name="testing.day2">
+        <test-method is-config="true" signature="Place()[pri:0, instance:testing.day2@7e0b85f9]" started-at="2022-11-04T09:01:51 IST" name="Place" finished-at="2022-11-04T09:01:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Place -->
+        <test-method signature="Thing()[pri:0, instance:testing.day2@7e0b85f9]" started-at="2022-11-04T09:01:52 IST" name="Thing" finished-at="2022-11-04T09:01:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thing -->
+        <test-method is-config="true" signature="Lastsuite()[pri:0, instance:testing.day2@7e0b85f9]" started-at="2022-11-04T09:01:52 IST" name="Lastsuite" finished-at="2022-11-04T09:01:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lastsuite -->
+      </class> <!-- testing.day2 -->
+      <class name="testing.day3">
+        <test-method is-config="true" signature="Gift()[pri:0, instance:testing.day3@6a400542]" started-at="2022-11-04T09:01:51 IST" name="Gift" finished-at="2022-11-04T09:01:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift -->
+        <test-method signature="Food()[pri:0, instance:testing.day3@6a400542]" started-at="2022-11-04T09:01:52 IST" name="Food" finished-at="2022-11-04T09:01:52 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Food -->
+        <test-method is-config="true" signature="Enjoy()[pri:0, instance:testing.day3@6a400542]" started-at="2022-11-04T09:01:52 IST" name="Enjoy" finished-at="2022-11-04T09:01:52 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enjoy -->
+      </class> <!-- testing.day3 -->
+      <class name="testing.day4">
+        <test-method signature="Happy()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Happy" finished-at="2022-11-04T09:01:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Happy -->
+        <test-method is-config="true" signature="Gift()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Gift" finished-at="2022-11-04T09:01:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift -->
+        <test-method is-config="true" signature="Gift()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Gift" finished-at="2022-11-04T09:01:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift -->
+        <test-method signature="Holiday()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Holiday" finished-at="2022-11-04T09:01:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Holiday -->
+        <test-method is-config="true" signature="Gift()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Gift" finished-at="2022-11-04T09:01:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift -->
+        <test-method signature="Sweets()[pri:0, instance:testing.day4@6580cfdd]" started-at="2022-11-04T09:01:52 IST" name="Sweets" finished-at="2022-11-04T09:01:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sweets -->
+      </class> <!-- testing.day4 -->
+      <class name="testing.day1">
+        <test-method is-config="true" signature="Before()[pri:0, instance:testing.day1@60d8c9b7]" started-at="2022-11-04T09:01:51 IST" name="Before" finished-at="2022-11-04T09:01:51 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+      </class> <!-- testing.day1 -->
+    </test> <!-- Testinggggg -->
+  </suite> <!-- Suite -->
+</testng-results>
